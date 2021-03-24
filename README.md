@@ -11,10 +11,12 @@
        password = 1234
  
  2. Teacher      (who can access the admin page with some restrictions)
+ 
        username = teja
        password = teja@123
  
  3.Student       (who can login only through the login page )
+ 
        username  =  bunny
        password = python123
        
